@@ -37,7 +37,7 @@ Several modules are available for effortless install right within Pext.
 
 ![Pext running the radiobrowser module with info panel](/screenshots/pext_radiobrowser_infopanel.png)
 ![Pext running the openweathermap module with context menu](/screenshots/pext_openweathermap_contextmenu.png)
-![Pext running the emoji module](/screenshots/pext_emoji.png)
+![Pext running the emoji module](/screenshots/pext_emoji.png =250x250)
 
 ## How it works
 
